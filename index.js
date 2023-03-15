@@ -23,8 +23,8 @@ function wrapAdjective(visualFlair = "*") {
     }
   }
 
- wrapAdjective()();
- wrapAdjective("||")("a dedicated programmer");
+//  wrapAdjective()();
+//  wrapAdjective("||")("a dedicated programmer");
 
 
   
